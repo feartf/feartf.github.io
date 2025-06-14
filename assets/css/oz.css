@@ -5,7 +5,7 @@
 }
 
 .profile-button:hover {
-	width: 31%;
+	width: 28%;
 	box-shadow: 0 0 0 .01vw #0095ff, 0 0 .1vw #0095ff;
 }
 
@@ -48,11 +48,11 @@ body {
 }
 
 .profile-button:nth-child(1):hover {
-	width: 29%;
+	width: 27%;
 }
 
 .profile-button:nth-child(3):hover {
-	width: 37%;
+	width: 43%;
 }
 .profile-button:nth-child(3)::before {
 	animation: followBorder2 .75s linear infinite;
